@@ -22,6 +22,7 @@ Pro představu:
  - fakturační systém s OBJ+NAB+MULTIPOBOČKY,SKLAD,POKLADNA                        - 14 DNÍ
  - implementace dotykového terminálu do výroby pro výkazy práce                   - 4 DNY
  - Právěš vzniká systém pro hotely včetně pokojové agengy,fakturace a objednávek  - 1 MĚSÍC
+ - Updaty Zdarma, 1 vývoj pro všechny klienty přes sdílené agendy projektu v kódu
  
  Neomezený počet uživatelů, neomezený tisk, neomezené možnosti, návody, tipy, triky, rady,
  Připraveno pro všechny typy systémů a terminálů pro MS WINDOWS
@@ -58,6 +59,7 @@ For idea:
   - invoicing system with OBJ+NAB+MULTI BRANCHES, WAREHOUSE, CHECKOUT - 14 DAYS
   - implementation of a touch terminal in production for work reports - 4 DAYS
   - A system for hotels including room agency, invoicing and orders is currently being created - 1 MONTH
+  - Free updates, 1 development for all clients via shared project agendas in code
  
   Unlimited users, unlimited printing, unlimited options, tutorials, tips, tricks, advice,
   Prepared for all types of systems and terminals for MS WINDOWS
@@ -71,3 +73,4 @@ ONLINE EXAMPLE: https://kliknetezde.cz
   IT Architect
   Libor Svoboda GroupWare-Solution.Eu
   Tel: 00420 724986873, email: Libor.Svoboda@GroupWare-Solution.Eu
+----------------------------------------------------------------------------------------
