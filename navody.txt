@@ -1,0 +1,23 @@
+obsah contactformu
+
+<label> Vaše jméno (vyžadováno)
+    [text* your-name] </label>
+
+<label> Váš e-mail (vyžadováno)
+    [email* your-email] </label>
+
+[text* ico id:ico "Vaše IÈO (CZ)" ]
+[hidden icoStatus id:icoStatus "notOk" ]
+
+<label> Vaše zpráva
+    [textarea your-message] </label>
+
+[submit id:submitButton"Odeslat"]
+<script>
+if (document.getElementById('ico') !=null) {
+      document.querySelector("#ico").onkeyup=function(){mfcrCheck(ico.value);}
+}
+</script>
+
+-- script nesmi mit mezery - jinak to vklada <p> odstavec
+-- scripty jsou vkladany z betheme JS

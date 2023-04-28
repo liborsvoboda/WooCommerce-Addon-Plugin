@@ -1,0 +1,15 @@
+cd /web/wp-content/themes
+put mfcrico.php
+put mfcricoCheck.php
+put mfskico.php
+
+cd /web/wp-content/plugins
+put registration-fields.php
+
+cd /web/wp-content/themes/betheme/js
+put custom_script.js
+
+cd /web/wp-content/themes/betheme
+put functions.php
+
+quit
