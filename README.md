@@ -2,7 +2,6 @@
 WooCommerce  Addon Plugin Api
 
 
------------------------------------------------------------------------------------
 CZ:
 
 Nově v nabídce "Naprosto unikátní EASY SYSTEM BUILDER" 
@@ -32,6 +31,7 @@ KÓD: https://github.com/liborsvoboda/EASYSYSTEM-EASYSERVER-CZ
 ONLINE UKÁZKA: https://kliknetezde.cz  
 
  TAK NEOTÁLEJTE A OZVĚTE SE JEŠTĚ DNES NEŽ PŮJDE CENA NAHORU
+ BACKEND SERVER JE OŽNÉ POUŽÍT SAMOSTATNĚ PRO LIBOVOLNÝ JINÝ MULTIPLATFORMNÍ PROJEKT
  
  IT Architekt
  Libor Svoboda GroupWare-Solution.Eu
@@ -69,7 +69,8 @@ CODE: https://github.com/liborsvoboda/EASYSYSTEM-EASYSERVER-EN
 ONLINE EXAMPLE: https://kliknetezde.cz  
 
   SO DON'T DELAY AND CALL TODAY BEFORE THE PRICE GOES UP
- 
+  BACKEND SERVER CAN BE USED INDEPENDENTLY FOR ANY OTHER MULTIPLATFORM PROJECT
+
   IT Architect
   Libor Svoboda GroupWare-Solution.Eu
   Tel: 00420 724986873, email: Libor.Svoboda@GroupWare-Solution.Eu
