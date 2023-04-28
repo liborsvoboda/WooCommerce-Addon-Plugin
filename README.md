@@ -26,8 +26,9 @@ Pro představu:
  Neomezený počet uživatelů, neomezený tisk, neomezené možnosti, návody, tipy, triky, rady,
  Připraveno pro všechny typy systémů a terminálů pro MS WINDOWS
  
-INTELIGENTNÍ DOKUMENTACE: https://liborsvoboda.github.io/EASYSYSTEM-EASYSERVER-CZ/
-KÓD: https://github.com/liborsvoboda/EASYSYSTEM-EASYSERVER-CZ
+INTELIGENTNÍ DOKUMENTACE: https://liborsvoboda.github.io/EASYSYSTEM-EASYSERVER-CZ/  
+KÓD: https://github.com/liborsvoboda/EASYSYSTEM-EASYSERVER-CZ  
+ONLINE UKÁZKA: https://kliknetezde.cz  
 
  TAK NEOTÁLEJTE A OZVĚTE SE JEŠTĚ DNES NEŽ PŮJDE CENA NAHORU
  
@@ -61,8 +62,9 @@ For idea:
   Unlimited users, unlimited printing, unlimited options, tutorials, tips, tricks, advice,
   Prepared for all types of systems and terminals for MS WINDOWS
  
-INTELLIGENT DOCUMENTATION: https://liborsvoboda.github.io/EASYSYSTEM-EASYSERVER-EN/
-CODE: https://github.com/liborsvoboda/EASYSYSTEM-EASYSERVER-EN
+INTELLIGENT DOCUMENTATION: https://liborsvoboda.github.io/EASYSYSTEM-EASYSERVER-EN/  
+CODE: https://github.com/liborsvoboda/EASYSYSTEM-EASYSERVER-EN  
+ONLINE EXAMPLE: https://kliknetezde.cz  
 
   SO DON'T DELAY AND CALL TODAY BEFORE THE PRICE GOES UP
  
